@@ -32,3 +32,19 @@
 
 </body>
 </html>
+
+
+
+css code
+/* style.css */
+.image {
+  position: absolute;
+  top: 50px;
+  left: 700px;
+}
+.image1{
+    position: absolute;
+    top: 0px;
+    left: 1100px;
+    bottom: 300px;
+}
